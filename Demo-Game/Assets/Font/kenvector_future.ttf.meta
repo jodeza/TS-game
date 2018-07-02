@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: c21662f47d9bb784d959ac8bd300d9b0
+timeCreated: 1530179116
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: KenVector Future
+  fontNames:
+  - KenVector Future
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

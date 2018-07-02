@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 99a850bc31649ef4fa364473b786a46b
+timeCreated: 1530179116
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: A.Casual.Handwritten.Pen
+  fontNames:
+  - A.Casual.Handwritten.Pen
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

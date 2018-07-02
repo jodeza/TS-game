@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 8d32240f3ad16004fa0296bb445ed11c
+timeCreated: 1530179116
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Casual Friday
+  fontNames:
+  - Casual Friday
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 23a1839b4d724b943bc51eb1aad96a17, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
